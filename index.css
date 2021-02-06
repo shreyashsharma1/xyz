@@ -1,0 +1,41 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0px;
+}
+header{
+  background-color:rgb(17, 124, 143);
+  padding: 40px;
+}
+h1{
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+nav{
+  background-color: black;
+  overflow: hidden;
+  padding: 10px;
+}
+a{
+  color: white;
+}
+section{
+  background-color: rgb(213, 200, 214);
+  text-align: center;
+}
+h2{
+  font-weight: bold;
+}
+img{
+  padding: 10px;
+}
+footer{
+  background-color: #333;
+  padding: 10px;
+}
+a:hover{
+  background-color: yellow;
+  color: black;
+}
